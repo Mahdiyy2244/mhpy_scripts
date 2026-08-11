@@ -20,13 +20,13 @@
 سپس فایل پایتون را اجرا کنید:
 
 ```bash
-python main.py
+python QuizMaster.py
 ```
 
 در بعضی سیستم‌ها ممکن است لازم باشد از این دستور استفاده کنید:
 
 ```bash
-python3 main.py
+python3 QuizMaster.py
 ```
 
 ## 🎮 نحوه استفاده
